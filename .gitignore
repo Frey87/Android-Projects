@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+**/build/
+
+# Local SDK configuration
+local.properties
+
+# Android generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Signing / credentials
+*.jks
+*.keystore
+
+# Logs
+*.log
